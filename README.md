@@ -19,3 +19,7 @@ The goal is to demonstrate how CUDA code can be structured so it works on both C
    cl /EHsc matrix_mul.cpp
    cl /EHsc vectors_mul.cpp
 
+
+
+
+
